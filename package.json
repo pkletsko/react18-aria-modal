@@ -1,7 +1,7 @@
 {
-  "name": "react-aria-modal",
-  "version": "4.0.1",
-  "description": "A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices",
+  "name": "react18-aria-modal",
+  "version": "4.0.2",
+  "description": "A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices. Copy with react 18 upgrade",
   "main": "dist/react-aria-modal.js",
   "scripts": {
     "lint": "eslint .",
@@ -36,7 +36,7 @@
     "react-displace": "^2.3.0"
   },
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0"
+    "react": ">= 15.0.0 < 18.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
