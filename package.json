@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidtheclark/react-aria-modal.git"
+    "url": "git+https://github.com/pkletsko/react18-aria-modal.git"
   },
   "keywords": [
     "react",
@@ -27,9 +27,9 @@
   "author": "David Clark",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidtheclark/react-aria-modal/issues"
+    "url": "https://github.com/pkletsko/react18-aria-modal/issues"
   },
-  "homepage": "https://github.com/davidtheclark/react-aria-modal#readme",
+  "homepage": "https://github.com/pkletsko/react18-aria-modal#readme",
   "dependencies": {
     "focus-trap-react": "^8.1.0",
     "no-scroll": "^2.1.1",
