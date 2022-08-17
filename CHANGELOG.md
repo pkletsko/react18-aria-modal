@@ -2,6 +2,10 @@
 
 ## HEAD
 
+## 4.0.2
+
+- Support react 18 
+
 ## 4.0.1
 
 - Move `componentWillMount` content to `constructor` to avoid deprecation message.
